@@ -41,7 +41,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   # Personal data
   [params.personal]
     # If name is not set, author is used
-    name = " Yong Li"
+    name = " Yong Li1"
     school = "University of Maryland, College Park"
     # Avatars can be written to images/avatars/
     avatar = "pic.jpeg"
